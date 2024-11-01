@@ -13,9 +13,9 @@
       "flags": {}
     }
   ],
-  "url": "https://your-repo-url.com",
-  "manifest": "https://your-repo-url.com/module.json",
-  "download": "https://your-repo-url.com/download.zip",
+  "url": "https://github.com/LuxuriaU/D35E-Curse-Buffs",
+  "manifest": "https://raw.githubusercontent.com/LuxuriaU/D35E-Curse-Buffs/refs/heads/main/module.json",
+  "download": "https://github.com/LuxuriaU/D35E-Curse-Buffs/archive/refs/tags/v1.0.0.zip",
   "id": "cursebuffs",
   "relationships": {
     "systems": [
