@@ -76,7 +76,7 @@ A module for the D35E (3.5 SRD) system in Foundry VTT that adds support for curs
 
 ## Support
 
-For issues and feature requests, please use the [Issue Tracker](your_issue_tracker_url)
+For issues and feature requests, please use the [Issue Tracker](https://github.com/LuxuriaU/D35E-Curse-Buffs/issues)
 
 ## Credits
 
