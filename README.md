@@ -12,7 +12,7 @@ A module for the D35E (3.5 SRD) system in Foundry VTT that adds support for curs
 
 ## Installation
 
-1. Copy this URL: `[Your manifest URL]`
+1. Copy this URL: `https://raw.githubusercontent.com/LuxuriaU/D35E-Curse-Buffs/main/module.json`
 2. Open Foundry VTT
 3. Navigate to Add-on Modules
 4. Click "Install Module"
