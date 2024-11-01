@@ -1,0 +1,40 @@
+{
+  "title": "D35E Curse Buffs",
+  "description": "Adds curse buff functionality to the D35E system, hidden from players.",
+  "version": "1.5.0",
+  "scripts": [
+    "scripts/curse-buffs.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json",
+      "flags": {}
+    }
+  ],
+  "url": "https://your-repo-url.com",
+  "manifest": "https://your-repo-url.com/module.json",
+  "download": "https://your-repo-url.com/download.zip",
+  "id": "cursebuffs",
+  "relationships": {
+    "systems": [
+      {
+        "id": "D35E",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Luxuria Unus",
+      "discord": "luxuria.unus",
+      "email": "skylar.sanchez99@yahoo.com"
+    }
+  ]
+}

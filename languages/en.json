@@ -1,0 +1,7 @@
+{
+  "CURSEBUFFS": {
+    "SettingEnableName": "Enable Curse Buffs",
+    "SettingEnableHint": "Enable or disable the curse buff system.",
+    "BuffTypeCurse": "Curse"
+  }
+}
